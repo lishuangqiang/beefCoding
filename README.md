@@ -27,8 +27,7 @@
 #### 25年5月份 · 暑期实习Offer
 | 美团offer | 字节跳动offer |
 |-----------|--------------|
-| <div align="center"><img width="400" alt="美团暑期实习Offer" src="https://github.com/user-attachments/assets/5806d3ba-619d-4662-a082-c47d9d44f290" /></div> | <div align="center"><img width="400" alt="字节跳动暑期实习Offer" src="https://github.com/user-attachments/assets/c0aadf7b-13d9-4191-a307-b44ad51f1eb2" /></div> |
-
+| <div align="center"><img width="400" alt="美团暑期实习Offer" src="https://github.com/user-attachments/assets/4abb8e1e-2a1d-485e-b30f-95a99c377c1f" /></div> | <div align="center"><img width="400" alt="字节跳动暑期实习Offer" src="https://github.com/user-attachments/assets/c0aadf7b-13d9-4191-a307-b44ad51f1eb2" /></div> |
 
 
 
