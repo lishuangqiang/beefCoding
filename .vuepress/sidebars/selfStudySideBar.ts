@@ -64,4 +64,16 @@ export default [
       "技术分享/Vue 中使用 Markdown 编辑器.md",
     ],
   },
+  {
+    title: "常见手撕题",
+    collapsable: true,
+    children: [
+      "技术分享/双非计算机大学生如何提高核心竞争力？.md",
+      "技术分享/二本学院计算机大学生如何规划大学四年的学习？.md",
+      "技术分享/遇到慢 SQL 该如何监控？.md",
+      "技术分享/Vue 中使用二维码和剪切板插件.md",
+      "技术分享/Vue 中使用 OpenAPI 生成前端接口代码教学.md",
+      "技术分享/Vue 中使用 Markdown 编辑器.md",
+    ],
+  },
 ];
