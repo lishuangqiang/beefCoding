@@ -66,7 +66,8 @@ export default {
   li, a , p, span
     word-wrap break-word
 .theme-default-content
-  margin 0 !important
+  margin 0 auto !important
+  max-width 800px
 
 .page
   display block

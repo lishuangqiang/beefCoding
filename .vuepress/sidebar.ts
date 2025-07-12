@@ -9,7 +9,7 @@ import studyGuideBar from "./sidebars/studyGuideBar";
 export default {
     "/项目实战/": projectSideBar,
     "/学习指南/": studyGuideBar,
-    "/自学之路/": selfStudySideBar,
+    "/自学之路/": selfStudySideBar,  
     "/高频面试题/": interviewQuestionBar,
     "/必备网站/": essentialWebsiteBar,
     "/简历修改/": resumeModificationBar,

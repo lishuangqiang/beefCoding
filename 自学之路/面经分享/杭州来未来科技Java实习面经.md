@@ -1,6 +1,6 @@
 # 杭州来未来科技 Java 实习面经
 
-> 本文作者：[程序员小白条](https://github.com/luoye6)
+> 本文作者：[程序员牛肉](https://github.com/luoye6)
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
@@ -62,5 +62,5 @@
 
 来未来，熙牛医疗，全知科技，等等都差不多，实习都4.5左右，然后话术也基本一样，基本招实习的，然后不会转正，但比去外包要强的多，有1-2段这种中小互联网，后面秋招还是很有机会可以获取中大厂的几个面试机会的！个人不建议一直去外包实习，还有就是接触低代码，数据标注，客开，等等，一定要注意，有疑问的可以联系下我蛤，多问一嘴总是没错的捏！
 
-程序员小白条的编程日记：[https://xbt.xiaobaitiao.top/](https://gw-c.nowcoder.com/api/sparta/jump/link?link=https%3A%2F%2Fxbt.xiaobaitiao.top%2F) （分享如何拿到腾讯实习 Offer 和多个中大厂的面试机会，大学经历、求职经历、职场工作、创作经历、生活日常、面经、技术分享）定期更新内容，成长打怪系列，分享从大一到大四的完整面经，看完可冲中大厂！
+程序员牛肉的编程日记：[https://xbt.xiaobaitiao.top/](https://gw-c.nowcoder.com/api/sparta/jump/link?link=https%3A%2F%2Fxbt.xiaobaitiao.top%2F) （分享如何拿到腾讯实习 Offer 和多个中大厂的面试机会，大学经历、求职经历、职场工作、创作经历、生活日常、面经、技术分享）定期更新内容，成长打怪系列，分享从大一到大四的完整面经，看完可冲中大厂！
 

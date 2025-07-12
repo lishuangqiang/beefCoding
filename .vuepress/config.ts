@@ -4,12 +4,12 @@ import sidebar from "./sidebar";
 import footer from "./footer";
 import extraSideBar from "./extraSideBar";
 
-const author = "程序员小白条";
+const author = "程序员牛肉";
 const domain = "https://xbt.xiaobaitiao.top";
 const tags = ["程序员", "编程", "计算机"];
 
 export default defineConfig({
-  title: "程序员小白条的编程日记",
+  title: "程序员牛肉的编程日记",
   description: "贴心的编程学习路线，全面的编程知识百科",
   head: [
     // 站点图标
@@ -20,9 +20,11 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "程序员小白条, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经",
+          "程序员牛肉, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经"
       },
     ],
+    // 解决语雀图片防盗链问题
+    ["meta", { name: "referrer", content: "no-referrer" }],
     // 百度统计
     [
       "script",

@@ -4,7 +4,7 @@
 export default {
   friendLinks: [
     {
-      label: "站长 - 程序员小白条",
+      label: "站长 - 程序员牛肉",
       href: "https://github.com/luoye6",
     },
     {

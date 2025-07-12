@@ -1,6 +1,6 @@
 # TCP三次握手和四次挥手，为什么不能是两次握手，三次挥手?
 
-> 本文作者：[程序员小白条](https://github.com/luoye6)
+> 本文作者：[程序员牛肉](https://github.com/luoye6)
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
@@ -25,4 +25,4 @@ TCP是一种面向连接的协议，其三次握手和四次挥手的过程是�
 
 因此，TCP协议采用三次握手和四次挥手的方式，以保证连接的可靠性和完整性。
 
-### 
+###

@@ -1,6 +1,6 @@
 # 北京元衣科技数字有限公司 Java 面经
 
-> 本文作者：[程序员小白条](https://github.com/luoye6)
+> 本文作者：[程序员牛肉](https://github.com/luoye6)
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
@@ -82,5 +82,5 @@
 
 
 
-程序员小白条的编程日记：[https://xbt.xiaobaitiao.top/](https://gw-c.nowcoder.com/api/sparta/jump/link?link=https%3A%2F%2Fxbt.xiaobaitiao.top%2F) （分享大学经历、求职经历、职场工作、创作经历、生活日常、面经、技术分享等等）定期更新内容，成长打怪系列，分享从大一到大四的完整面经，看完可冲中大厂！公众号：**程序员落叶**
+程序员牛肉的编程日记：[https://xbt.xiaobaitiao.top/](https://gw-c.nowcoder.com/api/sparta/jump/link?link=https%3A%2F%2Fxbt.xiaobaitiao.top%2F) （分享大学经历、求职经历、职场工作、创作经历、生活日常、面经、技术分享等等）定期更新内容，成长打怪系列，分享从大一到大四的完整面经，看完可冲中大厂！公众号：**程序员落叶**
 

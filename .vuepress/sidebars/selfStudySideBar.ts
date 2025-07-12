@@ -4,7 +4,7 @@ export default [
     title: "大学经历",
     collapsable: true,
     children: [
-      "大学经历/程序员小白条的四六级是怎么考过的？.md",
+      "大学经历/程序员牛肉的四六级是怎么考过的？.md",
       "大学经历/软件设计师，我通过了！.md",
       "大学经历/大一，社团还要面试？我直接面！.md",
     ],
@@ -34,7 +34,7 @@ export default [
     title: "生活日常",
     collapsable: true,
     children: [
-      "生活日常/程序员小白条的2023年度总结.md",
+      "生活日常/程序员牛肉的2023年度总结.md",
     ],
   },
   {

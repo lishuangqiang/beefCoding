@@ -19,7 +19,7 @@ export default [
     popoverUrl:
         "/qrcode-dy_xiaobaitiao.png",
     popoverDesc:
-        "抖音：程序员小白条",
+        "抖音：程序员牛肉",
   },
   {
     title: "简历修改",
